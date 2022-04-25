@@ -1,4 +1,6 @@
-הוראות הרצה:
-1. python main_3x3.py/main_4x4.py id/bfs/astar
+RUN INSTRUCTIONS:
+{You can choose to play the puzzle game with a board sized 3x3 or board sized 4x4}
+{You can choose which search algorithm to use - iterative deepening/ bfs/Astar}
 
-בהתאם לקובץ שיוקלד ייבחר קובץ הטקסט המתאים לקרוא ממנו ולהריץ את האלגוריתם הנבחר
+WRITE IN CMD::  python main_3x3.py/main_4x4.py id/bfs/astar
+
