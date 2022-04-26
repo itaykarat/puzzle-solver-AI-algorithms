@@ -2,7 +2,9 @@
 
 ### RUN INSTRUCTIONS ###
 {You can choose to play the puzzle game with a board sized 3x3 or board sized 4x4}
+
 {You can choose which search algorithm to use - iterative deepening/ bfs/Astar}
+
   WRITE IN CMD::  python main_3x3.py/main_4x4.py id/bfs/astar
 
 A version of the 8-puzzle game, in the 3x3 version there are 9 tiles from 1 to 9, and 1 to 16 in the 4x4.
